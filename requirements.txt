@@ -1,0 +1,5 @@
+tensorflow
+opencv-python
+scikit-learn
+streamlit
+huggingface_hub
